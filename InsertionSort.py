@@ -1,7 +1,6 @@
 class InsertionSort:
     def insertion_sort(self, arr):
         """
-
         :param arr:list[int]
         :return: list[int]
         """
